@@ -1,0 +1,8 @@
+D:\VS Programs\Prime Num\Prime Num\bin\Debug\Prime Num.exe.config
+D:\VS Programs\Prime Num\Prime Num\bin\Debug\Prime Num.exe
+D:\VS Programs\Prime Num\Prime Num\bin\Debug\Prime Num.pdb
+D:\VS Programs\Prime Num\Prime Num\obj\Debug\Prime Num.csproj.AssemblyReference.cache
+D:\VS Programs\Prime Num\Prime Num\obj\Debug\Prime Num.csproj.SuggestedBindingRedirects.cache
+D:\VS Programs\Prime Num\Prime Num\obj\Debug\Prime Num.csproj.CoreCompileInputs.cache
+D:\VS Programs\Prime Num\Prime Num\obj\Debug\Prime Num.exe
+D:\VS Programs\Prime Num\Prime Num\obj\Debug\Prime Num.pdb
